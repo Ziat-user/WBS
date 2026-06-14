@@ -9,7 +9,7 @@
  * 1_1_1
  *************************************************/
 
-const SHEET_NAME = '';   // 対象シート名を固定したい場合は 'Sheet1' など。空ならアクティブシート
+const SHEET_NAME = 'wbs';   // 対象シート名を固定したい場合は 'Sheet1' など。空ならアクティブシート
 const START_ROW = 3;     // データ開始行
 const CHECKBOX_COL = 1;  // A列
 const NUMBER_COL = 2;    // B列
